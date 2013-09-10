@@ -1,0 +1,10 @@
+{
+
+	"name":"fogLightServices"
+	, "version":"0.0.1"
+	, "description":"RESTful APIs for the fogLight application"
+	, "dependencies":{
+
+		"restify":"*"
+	}
+}
